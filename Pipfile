@@ -28,7 +28,7 @@ isort = "*"
 pre-commit = "*"
 
 [requires]
-python_version = "3.11"
+python_version = "3.10"
 
 [scripts]
 gcs_fetched = "./scripts/1-fetch/gcs_fetched.py"
